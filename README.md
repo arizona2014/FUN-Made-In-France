@@ -720,3 +720,11 @@
 6 | KOWLOR/kowlumn
 3 | VincentLoy/css-load-animation
 2 | VincentLoy/flat-hero-ui-kit
+
+### <a name="html"></a> HTML
+:star2: | Name 
+--- | ---
+30 | sylvaindurand/sylvaindurand.org
+15 | dtschump/gmic-community
+10 | guedou/bam
+3 | AGirlWhoCode/LekaWebsite
