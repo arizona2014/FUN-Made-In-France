@@ -978,3 +978,8 @@
 2 | deniswernert/go-fstab
 2 | vrischmann/katcrawl
 2 | remyoudompheng/go-dns
+
+
+### <a name="haskell"></a> Haskell
+:star2: | Name 
+--- | ---
