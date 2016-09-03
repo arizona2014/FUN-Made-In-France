@@ -1,6 +1,6 @@
 # Made in France
 
-> A list of cool projects made in France.
+> A list of cool projects made in France compiled by Arizona2014
 
 ## Contents
 
